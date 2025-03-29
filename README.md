@@ -1,6 +1,6 @@
-# Histopathological Image Classification using Deep Learning
+# Benchmarking Deep Learning Techniques for Accurate Classification of Lung and Colon Cancer Histopathology
 
-**Graduation Project for BSc in Computer Science at Goldsmiths, University of London**
+**Final Project for BSc in Computer Science at Goldsmiths, University of London**
 
 ---
 
